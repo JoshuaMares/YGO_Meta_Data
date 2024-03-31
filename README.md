@@ -6,9 +6,18 @@
 Create a database that connects each card to their last topping meta decklist.
 
 ## Stories
-1. [ ] Scrape deck page for competitive lists
-2. [ ] Scrape deck lists for card numbers
-3. [ ] Collect into dataframe that contains card name, deck list link, and most recent top date
-4. [ ] Host data on DB
-5. [ ] Create server that with public api for grabbing data
-6. [ ] Automatically update card data with new decklists as they are posted
+- [ ] Scrape deck page for competitive lists
+  - [x] Complete basic logic in ipynb
+  - [ ] Create basic script
+  - [ ] Add options to script
+    - date range
+    - format
+    - output
+- [ ] Scrape deck lists for card numbers
+  - [ ] Basic logic in ipynb
+  - [ ] Basic script
+  - [ ] Output format
+- [ ] Collect into dataframe that contains card name, deck list link, and most recent top date
+- [ ] Host data on DB
+- [ ] Create server that with public api for grabbing data
+- [ ] Automatically update card data with new decklists as they are posted
