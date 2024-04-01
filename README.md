@@ -14,7 +14,7 @@ Create a database that connects each card to their last topping meta decklist.
     - format
     - output
 - [ ] Scrape deck lists for card numbers
-  - [ ] Basic logic in ipynb
+  - [x] Basic logic in ipynb
   - [ ] Basic script
   - [ ] Output format
 - [ ] Collect into dataframe that contains card name, deck list link, and most recent top date
